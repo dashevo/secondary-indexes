@@ -3,7 +3,7 @@ Secondary indexes PoC
 
 Steps for compilation:
 Make sure your system has installed vefsions of 
-C++17
+"C++17" and 
 gcc, g++ compiler version 9
 
 Navigate to secindex folder and run "make" command
